@@ -2078,3 +2078,5 @@ Rishabh Pandey
 - [Nahom Negash] (https://github.com/Nnegash1)
 - [Klaudia Sapiecha](https://github.com/klaudiasapiecha)
 - [WarrenTheRabbit] (https://github.com/WarrenTheRabbit)
+- [Anurag Verma] (https://github.com/Anurag7774)
+  
